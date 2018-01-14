@@ -8,7 +8,7 @@ module.exports = (req, res) => {
   var response = verse.text;
 
   jsonResponse.push({
-    "text": response
+    "text": "\01F604" response
   });
 
   res.send(jsonResponse);
