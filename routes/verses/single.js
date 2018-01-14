@@ -1,9 +1,16 @@
 const data = require('../../data.json');
 
 module.exports = (req, res) => {
-  const verseId = Math.floor(Math.random() * data.sentences_tone.length);
-//  const verseId = req.params.verseId * 1;
-  const verse = data.sentences_tone.find(m => m.sentence_id === verseId);
+  var jsonResponse = [];
 
-  res.status(200).json({ verse });
+  const verseId = Math.floor(Math.random() * data.sentences_tone.length);
+  const verse = data.sentences_tone.find(m => m.sentence_id === verseId);
+  var response = verse.text;
+
+  jsonResponse.push({
+    "text": response
+  });
+
+  res.send(jsonResponse);
+  //  res.status(200).json({ response });
 };
