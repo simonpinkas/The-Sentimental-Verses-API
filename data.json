@@ -1,6 +1,6 @@
 {
   "verses": [
-    { 
+    {
       "emotion": "joy",
       "content": [
         {
@@ -10,6 +10,1042 @@
         {
           "sentence_id": 1,
           "text": "Genesis 1:3 and God saith, 'Let light be;' and light is."
+        },
+        {
+          "sentence_id": 2,
+          "text": "Genesis 1:4 And God seeth the light that it is good, and God separateth between the light and the darkness,"
+        },
+        {
+          "sentence_id": 3,
+          "text": "Genesis 1:5 and God calleth to the light 'Day,' and to the darkness He hath called 'Night;' and there is an evening, and there is a morning &#8212; day one."
+        },
+        {
+          "sentence_id": 4,
+          "text": "Genesis 1:8 And God calleth to the expanse 'Heavens;' and there is an evening, and there is a morning &#8212; day second."
+        },
+        {
+          "sentence_id": 5,
+          "text": "Genesis 1:10 And God calleth to the dry land 'Earth,' and to the collection of the waters He hath called 'Seas;' and God seeth that it is good."
+        },
+        {
+          "sentence_id": 6,
+          "text": "Genesis 1:11 And God saith, 'Let the earth yield tender grass, herb sowing seed, fruit-tree (whose seed is in itself) making fruit after its kind, on the earth:' and it is so."
+        },
+        {
+          "sentence_id": 7,
+          "text": "Genesis 1:14 And God saith, 'Let luminaries be in the expanse of the heavens, to make a separation between the day and the night, then they have been for signs, and for seasons, and for days and years,"
+        },
+        {
+          "sentence_id": 8,
+          "text": "Genesis 1:16 And God maketh the two great luminaries, the great luminary for the rule of the day, and the small luminary &#8212; and the stars &#8212; for the rule of the night;"
+        },
+        {
+          "sentence_id": 9,
+          "text": "Genesis 1:17 and God giveth them in the expanse of the heavens to give light upon the earth,"
+        },
+        {
+          "sentence_id": 10,
+          "text": "Genesis 1:21 And God prepareth the great monsters, and every living creature that is creeping, which the waters have teemed with, after their kind, and every fowl with wing, after its kind, and God seeth that it is good."
+        },
+        {
+          "sentence_id": 11,
+          "text": "Genesis 1:23 and there is an evening, and there is a morning &#8212; day fifth."
+        },
+        {
+          "sentence_id": 12,
+          "text": "Genesis 1:24 And God saith, 'Let the earth bring forth the living creature after its kind, cattle and creeping thing, and beast of the earth after its kind:' and it is so."
+        },
+        {
+          "sentence_id": 13,
+          "text": "Genesis 1:25 And God maketh the beast of the earth after its kind, and the cattle after their kind, and every creeping thing of the ground after its kind, and God seeth that it is good."
+        },
+        {
+          "sentence_id": 14,
+          "text": "Genesis 1:26 And God saith, 'Let Us make man in Our image, according to Our likeness, and let them rule over fish of the sea, and over fowl of the heavens, and over cattle, and over all the earth, and over every creeping thing that is creeping on the earth.'"
+        },
+        {
+          "sentence_id": 15,
+          "text": "Genesis 1:28 And God blesseth them, and God saith to them, 'Be fruitful, and multiply, and fill the earth, and subdue it, and rule over fish of the sea, and over fowl of the heavens, and over every living thing that is creeping upon the earth.'"
+        },
+        {
+          "sentence_id": 16,
+          "text": "Genesis 1:29 And God saith, 'Lo, I have given to you every herb sowing seed, which is upon the face of all the earth, and every tree in which is the fruit of a tree sowing seed, to you it is for food;"
+        },
+        {
+          "sentence_id": 17,
+          "text": "Genesis 1:30 and to every beast of the earth, and to every fowl of the heavens, and to every creeping thing on the earth, in which is breath of life, every green herb is for food:' and it is so."
+        },
+        {
+          "sentence_id": 18,
+          "text": "Genesis 2:1 And the heavens and the earth are completed, and all their host;"
+        },
+        {
+          "sentence_id": 19,
+          "text": "Genesis 2:2 and God completeth by the seventh day His work which He hath made, and ceaseth by the seventh day from all His work which He hath made."
+        },
+        {
+          "sentence_id": 20,
+          "text": "Genesis 2:3 And God blesseth the seventh day, and sanctifieth it, for in it He hath ceased from all His work which God had prepared for making."
+        },
+        {
+          "sentence_id": 21,
+          "text": "Genesis 2:4 These are births of the heavens and of the earth in their being prepared, in the day of Jehovah God's making earth and heavens;"
+        },
+        {
+          "sentence_id": 22,
+          "text": "Genesis 2:5 and no shrub of the field is yet in the earth, and no herb of the field yet sprouteth, for Jehovah God hath not rained upon the earth, and a man there is not to serve the ground,"
+        },
+        {
+          "sentence_id": 23,
+          "text": "Genesis 2:9 and Jehovah God causeth to sprout from the ground every tree desirable for appearance, and good for food, and the tree of life in the midst of the garden, and the tree of knowledge of good and evil."
+        },
+        {
+          "sentence_id": 24,
+          "text": "Genesis 2:12 and the gold of that land is good, there is the bdolach and the shoham stone;"
+        },
+        {
+          "sentence_id": 25,
+          "text": "Genesis 2:15 And Jehovah God taketh the man, and causeth him to rest in the garden of Eden, to serve it, and to keep it."
+        },
+        {
+          "sentence_id": 26,
+          "text": "Genesis 2:16 And Jehovah God layeth a charge on the man, saying, 'Of every tree of the garden eating thou dost eat;"
+        },
+        {
+          "sentence_id": 27,
+          "text": "Genesis 2:19 And Jehovah God formeth from the ground every beast of the field, and every fowl of the heavens, and bringeth in unto the man, to see what he doth call it; and whatever the man calleth a living creature, that is its name."
+        },
+        {
+          "sentence_id": 28,
+          "text": "Genesis 3:1 And the serpent hath been subtile above every beast of the field which Jehovah God hath made, and he saith unto the woman, 'Is it true that God hath said, Ye do not eat of every tree of the garden?'"
+        },
+        {
+          "sentence_id": 29,
+          "text": "Genesis 3:2 And the woman saith unto the serpent, 'Of the fruit of the trees of the garden we do eat,"
+        },
+        {
+          "sentence_id": 30,
+          "text": "Genesis 3:3 and of the fruit of the tree which is in the midst of the garden God hath said, Ye do not eat of it, nor touch it, lest ye die.'"
+        },
+        {
+          "sentence_id": 31,
+          "text": "Genesis 3:5 for God doth know that in the day of your eating of it &#8212; your eyes have been opened, and ye have been as God, knowing good and evil.'"
+        },
+        {
+          "sentence_id": 32,
+          "text": "Genesis 3:6 And the woman seeth that the tree is good for food, and that it is pleasant to the eyes, and the tree is desirable to make one wise, and she taketh of its fruit and eateth, and giveth also to her husband with her, and he doth eat;"
+        },
+        {
+          "sentence_id": 33,
+          "text": "Genesis 3:7 and the eyes of them both are opened, and they know that they are naked, and they sew fig-leaves, and make to themselves girdles."
+        },
+        {
+          "sentence_id": 34,
+          "text": "Genesis 3:8 And they hear the sound of Jehovah God walking up and down in the garden at the breeze of the day, and the man and his wife hide themselves from the face of Jehovah God in the midst of the trees of the garden."
+        },
+        {
+          "sentence_id": 35,
+          "text": "Genesis 3:9 And Jehovah God calleth unto the man, and saith to him, 'Where art thou?'"
+        },
+        {
+          "sentence_id": 36,
+          "text": "Genesis 3:21 And Jehovah God doth make to the man and to his wife coats of skin, and doth clothe them."
+        },
+        {
+          "sentence_id": 37,
+          "text": "Genesis 3:22 And Jehovah God saith, 'Lo, the man was as one of Us, as to the knowledge of good and evil; and now, lest he send forth his hand, and have taken also of the tree of life, and eaten, and lived to the age,' &#8212; "
+        },
+        {
+          "sentence_id": 38,
+          "text": "Genesis 3:23 Jehovah God sendeth him forth from the garden of Eden to serve the ground from which he hath been taken;"
+        },
+        {
+          "sentence_id": 39,
+          "text": "Genesis 3:24 yea, he casteth out the man, and causeth to dwell at the east of the garden of Eden the cherubs and the flame of the sword which is turning itself round to guard the way of the tree of life."
+        },
+        {
+          "sentence_id": 40,
+          "text": "Genesis 4:3 And it cometh to pass at the end of days that Cain bringeth from the fruit of the ground a present to Jehovah;"
+        },
+        {
+          "sentence_id": 41,
+          "text": "Genesis 4:12 when thou tillest the ground, it doth not add to give its strength to thee &#8212; a wanderer, even a trembling one, thou art in the earth.'"
+        },
+        {
+          "sentence_id": 42,
+          "text": "Genesis 4:13 And Cain saith unto Jehovah, 'Greater is my punishment than to be borne;"
+        },
+        {
+          "sentence_id": 43,
+          "text": "Genesis 5:1 This is an account of the births of Adam: In the day of God's preparing man, in the likeness of God He hath made him;"
+        },
+        {
+          "sentence_id": 44,
+          "text": "Genesis 5:12 And Cainan liveth seventy years, and begetteth Mahalaleel."
+        },
+        {
+          "sentence_id": 45,
+          "text": "Genesis 6:6 and Jehovah repenteth that He hath made man in the earth, and He grieveth Himself &#8212; unto His heart."
+        },
+        {
+          "sentence_id": 46,
+          "text": "Genesis 6:8 And Noah found grace in the eyes of Jehovah."
+        },
+        {
+          "sentence_id": 47,
+          "text": "Genesis 6:9 These are births of Noah: Noah is a righteous man; perfect he hath been among his generations; with God hath Noah walked habitually."
+        },
+        {
+          "sentence_id": 48,
+          "text": "Genesis 6:20 Of the fowl after its kind, and of the cattle after their kind, of every creeping thing of the ground after its kind, two of every sort they come in unto thee, to keep alive."
+        },
+        {
+          "sentence_id": 49,
+          "text": "Genesis 7:3 also, of fowl of the heavens seven pairs, a male and a female, to keep alive seed on the face of all the earth;"
+        },
+        {
+          "sentence_id": 50,
+          "text": "Genesis 7:7 And Noah goeth in, and his sons, and his wife, and his sons' wives with him, unto the ark, from the presence of the waters of the deluge;"
+        },
+        {
+          "sentence_id": 51,
+          "text": "Genesis 7:11 In the six hundredth year of the life of Noah, in the second month, in the seventeenth day of the month, in this day have been broken up all fountains of the great deep, and the net-work of the heavens hath been opened,"
+        },
+        {
+          "sentence_id": 52,
+          "text": "Genesis 7:12 and the shower is on the earth forty days and forty nights."
+        },
+        {
+          "sentence_id": 53,
+          "text": "Genesis 7:19 And the waters have been very very mighty on the earth, and covered are all the high mountains which are under the whole heavens;"
+        },
+        {
+          "sentence_id": 54,
+          "text": "Genesis 8:1 And God remembereth Noah, and every living thing, and all the cattle which are with him in the ark, and God causeth a wind to pass over the earth, and the waters subside,"
+        },
+        {
+          "sentence_id": 55,
+          "text": "Genesis 8:2 and closed are the fountains of the deep and the net-work of the heavens, and restrained is the shower from the heavens."
+        },
+        {
+          "sentence_id": 56,
+          "text": "Genesis 8:4 And the ark resteth, in the seventh month, in the seventeenth day of the month, on mountains of Ararat;"
+        },
+        {
+          "sentence_id": 57,
+          "text": "Genesis 8:21 and Jehovah smelleth the sweet fragrance, and Jehovah saith unto His heart, 'I continue not to disesteem any more the ground because of man, though the imagination of the heart of man is evil from his youth; and I continue not to smite any more all living, as I have done;"
+        },
+        {
+          "sentence_id": 58,
+          "text": "Genesis 8:22 during all days of the earth, seed-time and harvest, and cold and heat, and summer and winter, and day and night, do not cease.'"
+        },
+        {
+          "sentence_id": 59,
+          "text": "Genesis 9:3 Every creeping thing that is alive, to you it is for food; as the green herb I have given to you the whole;"
+        },
+        {
+          "sentence_id": 60,
+          "text": "Genesis 9:5 'And only your blood for your lives do I require; from the hand of every living thing I require it, and from the hand of man, from the hand of every man's brother I require the life of man;"
+        },
+        {
+          "sentence_id": 61,
+          "text": "Genesis 9:16 and the bow hath been in the cloud, and I have seen it &#8212; to remember the covenant age-during between God and every living creature among all flesh which is on the earth.'"
+        },
+        {
+          "sentence_id": 62,
+          "text": "Genesis 9:21 and drinketh of the wine, and is drunken, and uncovereth himself in the midst of the tent."
+        },
+        {
+          "sentence_id": 63,
+          "text": "Genesis 9:24 And Noah awaketh from his wine, and knoweth that which his young son hath done to him,"
+        },
+        {
+          "sentence_id": 64,
+          "text": "Genesis 9:26 And he saith: 'Blessed of Jehovah my God is Shem, And Canaan is servant to him."
+        },
+        {
+          "sentence_id": 65,
+          "text": "Genesis 9:27 God doth give beauty to Japheth, And he dwelleth in tents of Shem, And Canaan is servant to him.'"
+        },
+        {
+          "sentence_id": 66,
+          "text": "Genesis 10:12 and Resen, between Nineveh and Calah; it is the great city."
+        },
+        {
+          "sentence_id": 67,
+          "text": "Genesis 11:26 And Terah liveth seventy years, and begetteth Abram, Nahor, and Haran."
+        },
+        {
+          "sentence_id": 68,
+          "text": "Genesis 11:28 and Haran dieth in the presence of Terah his father, in the land of his birth, in Ur of the Chaldees."
+        },
+        {
+          "sentence_id": 69,
+          "text": "Genesis 12:2 And I make thee become a great nation, and bless thee, and make thy name great; and be thou a blessing."
+        },
+        {
+          "sentence_id": 70,
+          "text": "Genesis 12:3 And I bless those blessing thee, and him who is disesteeming thee I curse, and blessed in thee have been all families of the ground.'"
+        },
+        {
+          "sentence_id": 71,
+          "text": "Genesis 12:16 and to Abram he hath done good because of her, and he hath sheep and oxen, and he-asses, and men-servants, and handmaids, and she-asses, and camels."
+        },
+        {
+          "sentence_id": 72,
+          "text": "Genesis 12:17 And Jehovah plagueth Pharaoh and his house &#8212; great plagues &#8212; for the matter of Sarai, Abram's wife."
+        },
+        {
+          "sentence_id": 73,
+          "text": "Genesis 14:3 All these have been joined together unto the valley of Siddim, which is the Salt Sea;"
+        },
+        {
+          "sentence_id": 74,
+          "text": "Genesis 14:18 And Melchizedek king of Salem hath brought out bread and wine, and he is priest of God Most High;"
+        },
+        {
+          "sentence_id": 75,
+          "text": "Genesis 14:19 and he blesseth him, and saith, 'Blessed is Abram to God Most High, possessing heaven and earth;"
+        },
+        {
+          "sentence_id": 76,
+          "text": "Genesis 14:20 and blessed is God Most High, who hath delivered thine adversaries into thy hand;' and he giveth to him a tenth of all."
+        },
+        {
+          "sentence_id": 77,
+          "text": "Genesis 14:22 and Abram saith unto the king of Sodom, 'I have lifted up my hand unto Jehovah, God Most High, possessing heaven and earth &#8212; "
+        },
+        {
+          "sentence_id": 78,
+          "text": "Genesis 14:23 from a thread even unto a shoe-latchet I take not of anything which thou hast, that thou say not, I &#8212; I have made Abram rich;"
+        },
+        {
+          "sentence_id": 79,
+          "text": "Genesis 15:1 After these things hath the word of Jehovah been unto Abram in a vision, saying, 'Fear not, Abram, I am a shield to thee, thy reward is exceeding great.'"
+        },
+        {
+          "sentence_id": 80,
+          "text": "Genesis 15:5 and He bringeth him out without, and saith, 'Look attentively, I pray thee, towards the heavens, and count the stars, if thou art able to count them;' and He saith to him, 'Thus is thy seed.'"
+        },
+        {
+          "sentence_id": 81,
+          "text": "Genesis 15:14 and the nation also whom they serve I judge, and after this they go out with great substance;"
+        },
+        {
+          "sentence_id": 82,
+          "text": "Genesis 15:15 and thou &#8212; thou comest in unto thy fathers in peace; thou art buried in a good old age;"
+        },
+        {
+          "sentence_id": 83,
+          "text": "Genesis 15:18 In that day hath Jehovah made with Abram a covenant, saying, 'To thy seed I have given this land, from the river of Egypt unto the great river, the river Phrat,"
+        },
+        {
+          "sentence_id": 84,
+          "text": "Genesis 16:6 And Abram saith unto Sarai, 'Lo, thine handmaid is in thine hand, do to her that which is good in thine eyes;' and Sarai afflicted her, and she fleeth from her presence."
+        },
+        {
+          "sentence_id": 85,
+          "text": "Genesis 16:12 and he is a wild-ass man, his hand against every one, and every one's hand against him &#8212; and before the face of all his brethren he dwelleth.'"
+        },
+        {
+          "sentence_id": 86,
+          "text": "Genesis 17:1 And Abram is a son of ninety and nine years, and Jehovah appeareth unto Abram, and saith unto him, 'I am God Almighty, walk habitually before Me, and be thou perfect;"
+        },
+        {
+          "sentence_id": 87,
+          "text": "Genesis 17:16 and I have blessed her, and have also given to thee a son from her; and I have blessed her, and she hath become nations &#8212; kings of peoples are from her.'"
+        },
+        {
+          "sentence_id": 88,
+          "text": "Genesis 17:20 As to Ishmael, I have heard thee; lo, I have blessed him, and made him fruitful, and multiplied him, very exceedingly; twelve princes doth he beget, and I have made him become a great nation;"
+        },
+        {
+          "sentence_id": 89,
+          "text": "Genesis 18:13 and Sarah laugheth in her heart, saying, 'After I have waxed old I have had pleasure!"
+        },
+        {
+          "sentence_id": 90,
+          "text": "Sarah hath laughed, saying, Is it true really &#8212; I bear &#8212; and I am aged?"
+        },
+        {
+          "sentence_id": 91,
+          "text": "Is any thing too wonderful for Jehovah? at the appointed time I return unto thee, about the time of life, and Sarah hath a son.'"
+        },
+        {
+          "sentence_id": 92,
+          "text": "Genesis 18:18 and Abraham certainly becometh a nation great and mighty, and blessed in him have been all nations of the earth?"
+        },
+        {
+          "sentence_id": 93,
+          "text": "Genesis 19:11 and the men who are at the opening of the house they have smitten with blindness, from small even unto great, and they weary themselves to find the opening."
+        },
+        {
+          "sentence_id": 94,
+          "text": "Genesis 19:16 And he lingereth, and the men lay hold on his hand, and on the hand of his wife, and on the hand of his two daughters, through the mercy of Jehovah unto him, and they bring him out, and cause him to rest without the city."
+        },
+        {
+          "sentence_id": 95,
+          "text": "and my soul doth live.'"
+        },
+        {
+          "sentence_id": 96,
+          "text": "Genesis 19:23 The sun hath gone out on the earth, and Lot hath entered into Zoar,"
+        },
+        {
+          "sentence_id": 97,
+          "text": "Genesis 20:13 and it cometh to pass, when God hath caused me to wander from my father's house, that I say to her, This is thy kindness which thou dost with me: at every place whither we come, say of me, He is my brother.'"
+        },
+        {
+          "sentence_id": 98,
+          "text": "Genesis 20:17 And Abraham prayeth unto God, and God healeth Abimelech and his wife, and his handmaids, and they bear:"
+        },
+        {
+          "sentence_id": 99,
+          "text": "Genesis 21:6 and Sarah saith, 'God hath made laughter for me; every one who is hearing laugheth for me.'"
+        },
+        {
+          "sentence_id": 100,
+          "text": "Genesis 21:8 And the lad groweth, and is weaned, and Abraham maketh a great banquet in the day of Isaac's being weaned;"
+        },
+        {
+          "sentence_id": 101,
+          "text": "Genesis 21:17 And God heareth the voice of the youth; and the messenger of God calleth unto Hagar from the heavens, and saith to her, 'What to thee, Hagar?"
+        },
+        {
+          "sentence_id": 102,
+          "text": "Genesis 21:18 rise, lift up the youth, and lay hold on him with thy hand, for for a great nation I set him.'"
+        },
+        {
+          "sentence_id": 103,
+          "text": "Genesis 21:19 And God openeth her eyes, and she seeth a well of water, and she goeth and filleth the bottle with water, and causeth the youth to drink;"
+        },
+        {
+          "sentence_id": 104,
+          "text": "Genesis 21:20 and God is with the youth, and he groweth, and dwelleth in the wilderness, and is an archer;"
+        },
+        {
+          "sentence_id": 105,
+          "text": "Genesis 21:22 And it cometh to pass at that time that Abimelech speaketh &#8212; Phichol also, head of his host &#8212; unto Abraham, saying, 'God is with thee in all that thou art doing;"
+        },
+        {
+          "sentence_id": 106,
+          "text": "Genesis 21:23 and now, swear to me by God here: thou dost not lie to me, or to my continuator, or to my successor; according to the kindness which I have done with thee thou dost with me, and with the land in which thou hast sojourned.'"
+        },
+        {
+          "sentence_id": 107,
+          "text": "Genesis 21:27 And Abraham taketh sheep and oxen, and giveth to Abimelech, and they make, both of them, a covenant;"
+        },
+        {
+          "sentence_id": 108,
+          "text": "Genesis 21:30 And he saith, 'For &#8212; the seven lambs thou dost accept from my hand, so that it becometh a witness for me that I have digged this well;'"
+        },
+        {
+          "sentence_id": 109,
+          "text": "Genesis 21:32 And they make a covenant in Beer-Sheba, and Abimelech riseth &#8212; Phichol also, head of his host &#8212; and they turn back unto the land of the Philistines;"
+        },
+        {
+          "sentence_id": 110,
+          "text": "Genesis 21:33 and Abraham planteth a tamarisk in Beer-Sheba, and preacheth there in the name of Jehovah, God age-during;"
+        },
+        {
+          "sentence_id": 111,
+          "text": "Genesis 22:9 And they come in unto the place of which God hath spoken to him, and there Abraham buildeth the altar, and arrangeth the wood, and bindeth Isaac his son, and placeth him upon the altar above the wood;"
+        },
+        {
+          "sentence_id": 112,
+          "text": "Genesis 22:17 that blessing I bless thee, and multiplying I multiply thy seed as stars of the heavens, and as sand which is on the sea-shore; and thy seed doth possess the gate of his enemies;"
+        },
+        {
+          "sentence_id": 113,
+          "text": "Genesis 22:18 and blessed themselves in thy seed have all nations of the earth, because that thou hast hearkened to My voice.'"
+        },
+        {
+          "sentence_id": 114,
+          "text": "Genesis 22:19 And Abraham turneth back unto his young men, and they rise and go together unto Beer-Sheba; and Abraham dwelleth in Beer-Sheba."
+        },
+        {
+          "sentence_id": 115,
+          "text": "Genesis 23:17 And established are the field of Ephron, which is in Machpelah, which is before Mamre, the field and the cave which is in it, and all the trees which are in the field, which are in all its border round about,"
+        },
+        {
+          "sentence_id": 116,
+          "text": "Genesis 24:1 And Abraham is old, he hath entered into days, and Jehovah hath blessed Abraham in all things;"
+        },
+        {
+          "sentence_id": 117,
+          "text": "Genesis 24:10 And the servant taketh ten camels of the camels of his lord and goeth, also of all the goods of his lord in his hand, and he riseth, and goeth unto Aram-Naharaim, unto the city of Nahor;"
+        },
+        {
+          "sentence_id": 118,
+          "text": "Genesis 24:12 And he saith, 'Jehovah, God of my lord Abraham, cause to meet, I pray Thee, before me this day &#8212; (and do kindness with my lord Abraham;"
+        },
+        {
+          "sentence_id": 119,
+          "text": "Genesis 24:16 and the young person is of very good appearance, a virgin, and a man hath not known her; and she goeth down to the fountain, and filleth her pitcher, and cometh up."
+        },
+        {
+          "sentence_id": 120,
+          "text": "Genesis 24:19 And she finisheth giving him drink, and saith, 'Also for thy camels I draw till they have finished drinking;'"
+        },
+        {
+          "sentence_id": 121,
+          "text": "Genesis 24:22 And it cometh to pass when the camels have finished drinking, that the man taketh a golden ring (whose weight is a bekah), and two bracelets for her hands (whose weight is ten bekahs of gold),"
+        },
+        {
+          "sentence_id": 122,
+          "text": "Genesis 24:27 and saith, 'Blessed is Jehovah, God of my lord Abraham, who hath not left off His kindness and His truth with my lord; &#8212; I being in the way, Jehovah hath led me to the house of my lord's brethren.'"
+        },
+        {
+          "sentence_id": 123,
+          "text": "Genesis 24:28 And the young person runneth, and declareth to the house of her mother according to these words."
+        },
+        {
+          "sentence_id": 124,
+          "text": "Genesis 24:31 And he saith, 'Come in, O blessed one of Jehovah, why standest thou without, and I &#8212; I have prepared the house and place for the camels!'"
+        },
+        {
+          "sentence_id": 125,
+          "text": "Genesis 24:35 and Jehovah hath blessed my lord exceedingly, and he is great; and He giveth to him flock, and herd, and silver, and gold, and men-servants, and maid-servants, and camels, and asses;"
+        },
+        {
+          "sentence_id": 126,
+          "text": "Genesis 24:48 and I bow, and do obeisance before Jehovah, and I bless Jehovah, God of my lord Abraham, who hath led me in the true way to receive the daughter of my lord's brother for his son."
+        },
+        {
+          "sentence_id": 127,
+          "text": "Genesis 24:60 and they bless Rebekah, and say to her, 'Thou art our sister; become thou thousands of myriads, and thy seed doth possess the gate of those hating it.'"
+        },
+        {
+          "sentence_id": 128,
+          "text": "Genesis 25:7 And these are the days of the years of the life of Abraham, which he lived, a hundred and seventy and five years;"
+        },
+        {
+          "sentence_id": 129,
+          "text": "Genesis 25:8 and Abraham expireth, and dieth in a good old age, aged and satisfied, and is gathered unto his people."
+        },
+        {
+          "sentence_id": 130,
+          "text": "Genesis 25:28 and Isaac loveth Esau, for his hunting is in his mouth; and Rebekah is loving Jacob."
+        },
+        {
+          "sentence_id": 131,
+          "text": "Genesis 26:3 sojourn in this land, and I am with thee, and bless thee, for to thee and to thy seed I give all these lands, and I have established the oath which I have sworn to Abraham thy father;"
+        },
+        {
+          "sentence_id": 132,
+          "text": "Genesis 26:4 and I have multiplied thy seed as stars of the heavens, and I have given to thy seed all these lands; and blessed themselves in thy seed have all nations of the earth;"
+        },
+        {
+          "sentence_id": 133,
+          "text": "Genesis 26:13 and the man is great, and goeth on, going on and becoming great, till that he hath been very great,"
+        },
+        {
+          "sentence_id": 134,
+          "text": "Genesis 26:19 And Isaac's servants dig in the valley, and find there a well of living water,"
+        },
+        {
+          "sentence_id": 135,
+          "text": "Genesis 26:23 And he goeth up from thence to Beer-Sheba,"
+        },
+        {
+          "sentence_id": 136,
+          "text": "Genesis 26:24 and Jehovah appeareth unto him during that night, and saith, 'I am the God of Abraham thy father, fear not, for I am with thee, and have blessed thee, and have multiplied thy seed, because of Abraham My servant;'"
+        },
+        {
+          "sentence_id": 137,
+          "text": "Genesis 26:26 And Abimelech hath gone unto him from Gerar, and Ahuzzath his friend, and Phichol head of his host;"
+        },
+        {
+          "sentence_id": 138,
+          "text": "Genesis 26:29 do not evil with us, as we have not touched thee, and as we have only done good with thee, and send thee away in peace; thou art now blessed of Jehovah.'"
+        },
+        {
+          "sentence_id": 139,
+          "text": "Genesis 26:32 And it cometh to pass during that day that Isaac's servants come and declare to him concerning the circumstances of the well which they have digged, and say to him, 'We have found water;'"
+        },
+        {
+          "sentence_id": 140,
+          "text": "Genesis 26:33 and he calleth it Shebah, oath, therefore the name of the city is Beer-Sheba, well of the oath, unto this day."
+        },
+        {
+          "sentence_id": 141,
+          "text": "Genesis 27:4 and make for me tasteful things, such as I have loved, and bring in to me, and I do eat, so that my soul doth bless thee before I die.'"
+        },
+        {
+          "sentence_id": 142,
+          "text": "Genesis 27:7 Bring for me provision, and make for me tasteful things, and I do eat, and bless thee before Jehovah before my death."
+        },
+        {
+          "sentence_id": 143,
+          "text": "Genesis 27:9 Go, I pray thee, unto the flock, and take for me from thence two good kids of the goats, and I make them tasteful things for thy father, such as he hath loved;"
+        },
+        {
+          "sentence_id": 144,
+          "text": "Genesis 27:10 and thou hast taken in to thy father, and he hath eaten, so that his soul doth bless thee before his death."
+        },
+        {
+          "sentence_id": 145,
+          "text": "Genesis 27:14 And he goeth, and taketh, and bringeth to his mother, and his mother maketh tasteful things, such as his father hath loved;"
+        },
+        {
+          "sentence_id": 146,
+          "text": "Genesis 27:17 and she giveth the tasteful things, and the bread which she hath made, into the hand of Jacob her son."
+        },
+        {
+          "sentence_id": 147,
+          "text": "Genesis 27:19 And Jacob saith unto his father, 'I am Esau thy first-born; I have done as thou hast spoken unto me; rise, I pray thee, sit, and eat of my provision, so that thy soul doth bless me.'"
+        },
+        {
+          "sentence_id": 148,
+          "text": "Genesis 27:25 And he saith, 'Bring nigh to me, and I do eat of my son's provision, so that my soul doth bless thee;' and he bringeth nigh to him, and he eateth; and he bringeth to him wine, and he drinketh."
+        },
+        {
+          "sentence_id": 149,
+          "text": "Genesis 27:28 and God doth give to thee of the dew of heaven, and of the fatness of the earth, and abundance of corn and wine;"
+        },
+        {
+          "sentence_id": 150,
+          "text": "Genesis 27:29 peoples serve thee, and nations bow themselves to thee, be thou mighty over thy brethren, and the sons of thy mother bow themselves to thee; those who curse thee are cursed, and those who bless thee are blessed.'"
+        },
+        {
+          "sentence_id": 151,
+          "text": "Genesis 27:30 And it cometh to pass, as Isaac hath finished blessing Jacob, and Jacob is only just going out from the presence of Isaac his father, that Esau his brother hath come in from his hunting;"
+        },
+        {
+          "sentence_id": 152,
+          "text": "Genesis 27:31 and he also maketh tasteful things, and bringeth to his father, and saith to his father, 'Let my father arise, and eat of his son's provision, so that thy soul doth bless me.'"
+        },
+        {
+          "sentence_id": 153,
+          "text": "Genesis 27:33 and Isaac trembleth a very great trembling, and saith, 'Who, now, is he who hath provided provision, and bringeth in to me, and I eat of all before thou comest in, and I bless him?"
+        },
+        {
+          "sentence_id": 154,
+          "text": "&#8212; yea, blessed is he.'"
+        },
+        {
+          "sentence_id": 155,
+          "text": "Genesis 27:34 When Esau heareth the words of his father, then he crieth a very great and bitter cry, and saith to his father, 'Bless me, me also, O my father;'"
+        },
+        {
+          "sentence_id": 156,
+          "text": "Genesis 27:35 and he saith, 'Thy brother hath come with subtilty, and taketh thy blessing.'"
+        },
+        {
+          "sentence_id": 157,
+          "text": "my birthright he hath taken; and lo, now, he hath taken my blessing;' he saith also, 'Hast thou not kept back a blessing for me?'"
+        },
+        {
+          "sentence_id": 158,
+          "text": "Genesis 27:38 And Esau saith unto his father, 'One blessing hast thou my father?"
+        },
+        {
+          "sentence_id": 159,
+          "text": "bless me, me also, O my father;' and Esau lifteth up his voice, and weepeth."
+        },
+        {
+          "sentence_id": 160,
+          "text": "Genesis 27:41 And Esau hateth Jacob, because of the blessing with which his father blessed him, and Esau saith in his heart, 'The days of mourning for my father draw near, and I slay Jacob my brother.'"
+        },
+        {
+          "sentence_id": 161,
+          "text": "Genesis 28:3 and God Almighty doth bless thee, and make thee fruitful, and multiply thee, and thou hast become an assembly of peoples;"
+        },
+        {
+          "sentence_id": 162,
+          "text": "Genesis 28:4 and He doth give to thee the blessing of Abraham, to thee and to thy seed with thee, to cause thee to possess the land of thy sojournings, which God gave to Abraham.'"
+        },
+        {
+          "sentence_id": 163,
+          "text": "Genesis 28:6 And Esau seeth that Isaac hath blessed Jacob, and hath sent him to Padan-Aram to take to himself from thence a wife &#8212; in his blessing him that he layeth a charge upon him, saying, Thou dost not take a wife from the daughters of Canaan &#8212; "
+        },
+        {
+          "sentence_id": 164,
+          "text": "Genesis 28:11 and he toucheth at a certain place, and lodgeth there, for the sun hath gone in, and he taketh of the stones of the place, and maketh them his pillows, and lieth down in that place."
+        },
+        {
+          "sentence_id": 165,
+          "text": "Genesis 28:14 and thy seed hath been as the dust of the land, and thou hast broken forth westward, and eastward, and northward, and southward, and all families of the ground have been blessed in thee and in thy seed."
+        },
+        {
+          "sentence_id": 166,
+          "text": "Genesis 28:18 And Jacob riseth early in the morning, and taketh the stone which he hath made his pillows, and maketh it a standing pillar, and poureth oil upon its top,"
+        },
+        {
+          "sentence_id": 167,
+          "text": "Genesis 28:19 and he calleth the name of that place Bethel, house of God, and yet, Luz is the name of the city at the first."
+        },
+        {
+          "sentence_id": 168,
+          "text": "Genesis 28:21 when I have turned back in peace unto the house of my father, and Jehovah hath become my God,"
+        },
+        {
+          "sentence_id": 169,
+          "text": "Genesis 28:22 then this stone which I have made a standing pillar is a house of God, and all that Thou dost give to me &#8212; tithing I tithe to Thee.'"
+        },
+        {
+          "sentence_id": 170,
+          "text": "Genesis 29:2 and he looketh, and lo, a well in the field, and lo, there three droves of a flock crouching by it, for from that well they water the droves, and the great stone is on the mouth of the well."
+        },
+        {
+          "sentence_id": 171,
+          "text": "Genesis 29:6 And he saith to them, 'Hath he peace?' and they say, 'Peace; and lo, Rachel his daughter is coming with the flock.'"
+        },
+        {
+          "sentence_id": 172,
+          "text": "Genesis 29:7 And he saith, 'Lo, the day is still great, it is not time for the cattle to be gathered; water ye the flock, and go, delight yourselves.'"
+        },
+        {
+          "sentence_id": 173,
+          "text": "Genesis 29:20 and Jacob serveth for Rachel seven years; and they are in his eyes as some days, because of his loving her."
+        },
+        {
+          "sentence_id": 174,
+          "text": "Genesis 29:26 And Laban saith, 'It is not done so in our place, to give the younger before the first-born;"
+        },
+        {
+          "sentence_id": 175,
+          "text": "Genesis 29:32 and Leah conceiveth, and beareth a son, and calleth his name Reuben, for she said, 'Because Jehovah hath looked on mine affliction; because now doth my husband love me.'"
+        },
+        {
+          "sentence_id": 176,
+          "text": "Genesis 30:13 and Leah saith, 'Because of my happiness, for daughters have pronounced me happy;' and she calleth his name Asher."
+        },
+        {
+          "sentence_id": 177,
+          "text": "Genesis 30:14 And Reuben goeth in the days of wheat-harvest, and findeth love-apples in the field, and bringeth them in unto Leah, his mother, and Rachel saith unto Leah, 'Give to me, I pray thee, of the love-apples of thy son.'"
+        },
+        {
+          "sentence_id": 178,
+          "text": "Genesis 30:15 And she saith to her, 'Is thy taking my husband a little thing, that thou hast taken also the love-apples of my son?' and Rachel saith, 'Therefore doth he lie with thee to-night, for thy son's love-apples.'"
+        },
+        {
+          "sentence_id": 179,
+          "text": "Genesis 30:16 And Jacob cometh in from the field at evening; and Leah goeth to meet him, and saith, 'Unto me dost thou come in, for hiring I have hired thee with my son's love-apples;' and he lieth with her during that night."
+        },
+        {
+          "sentence_id": 180,
+          "text": "Genesis 30:20 and Leah saith, 'God hath endowed me &#8212; a good dowry; this time doth my husband dwell with me, for I have borne to him six sons;' and she calleth his name Zebulun;"
+        },
+        {
+          "sentence_id": 181,
+          "text": "Genesis 30:22 And God remembereth Rachel, and God hearkeneth unto her, and openeth her womb,"
+        },
+        {
+          "sentence_id": 182,
+          "text": "Genesis 30:27 And Laban saith unto him, 'If, I pray thee, I have found grace in thine eyes &#8212; I have observed diligently that Jehovah doth bless me for thy sake.'"
+        },
+        {
+          "sentence_id": 183,
+          "text": "Genesis 30:35 and he turneth aside during that day the ring-streaked and the spotted he-goats, and all the speckled and the spotted she-goats, every one that hath white in it, and every brown one among the lambs, and he giveth into the hand of his sons,"
+        },
+        {
+          "sentence_id": 184,
+          "text": "Genesis 31:15 have we not been reckoned strangers to him?"
+        },
+        {
+          "sentence_id": 185,
+          "text": "Genesis 31:23 and he taketh his brethren with him, and pursueth after him a journey of seven days, and overtaketh him in the mount of Gilead."
+        },
+        {
+          "sentence_id": 186,
+          "text": "Genesis 31:24 And God cometh in unto Laban the Aramaean in a dream of the night, and saith to him, 'Take heed to thyself lest thou speak with Jacob from good unto evil.'"
+        },
+        {
+          "sentence_id": 187,
+          "text": "Genesis 31:28 and hast not suffered me to kiss my sons and my daughters?"
+        },
+        {
+          "sentence_id": 188,
+          "text": "Genesis 31:29 my hand is to God to do evil with you, but the God of your father yesternight hath spoken unto me, saying, Take heed to thyself from speaking with Jacob from good unto evil."
+        },
+        {
+          "sentence_id": 189,
+          "text": "Genesis 31:35 and she saith unto her father, 'Let it not be displeasing in the eyes of my lord that I am not able to rise at thy presence, for the way of women is on me;' and he searcheth, and hath not found the teraphim."
+        },
+        {
+          "sentence_id": 190,
+          "text": "Genesis 32:1 And Jacob hath gone on his way, and messengers of God come upon him;"
+        },
+        {
+          "sentence_id": 191,
+          "text": "Genesis 32:9 And Jacob saith, 'God of my father Abraham, and God of my father Isaac, Jehovah who saith unto me, Turn back to thy land, and to thy kindred, and I do good with thee:"
+        },
+        {
+          "sentence_id": 192,
+          "text": "Genesis 32:12 and Thou &#8212; Thou hast said, I certainly do good with thee, and have set thy seed as the sand of the sea, which is not numbered because of the multitude.'"
+        },
+        {
+          "sentence_id": 193,
+          "text": "Genesis 32:13 And he lodgeth there during that night, and taketh from that which is coming into his hand, a present for Esau his brother:"
+        },
+        {
+          "sentence_id": 194,
+          "text": "Genesis 32:26 and he saith, 'Send me away, for the dawn hath ascended:' and he saith, 'I send thee not away, except thou hast blessed me.'"
+        },
+        {
+          "sentence_id": 195,
+          "text": "Genesis 33:10 And Jacob saith, 'Nay, I pray thee, if, I pray thee, I have found grace in thine eyes, then thou hast received my present from my hand, because that I have seen thy face, as the seeing of the face of God, and thou art pleased with me;"
+        },
+        {
+          "sentence_id": 196,
+          "text": "Genesis 33:11 receive, I pray thee, my blessing, which is brought to thee, because God hath favoured me, and because I have all things;' and he presseth on him, and he receiveth,"
+        },
+        {
+          "sentence_id": 197,
+          "text": "I find grace in the eyes of my lord.'"
+        },
+        {
+          "sentence_id": 198,
+          "text": "Genesis 33:19 and he buyeth the portion of the field where he hath stretched out his tent, from the hand of the sons of Hamor, father of Shechem, for a hundred kesitah;"
+        },
+        {
+          "sentence_id": 199,
+          "text": "Genesis 33:20 and he setteth up there an altar, and proclaimeth at it God &#8212; the God of Israel."
+        },
+        {
+          "sentence_id": 200,
+          "text": "Genesis 34:3 and his soul cleaveth to Dinah, daughter of Jacob, and he loveth the young person, and speaketh unto the heart of the young person."
+        },
+        {
+          "sentence_id": 201,
+          "text": "Genesis 34:12 multiply on me exceedingly dowry and gift, and I give as ye say unto me, and give to me the young person for a wife.'"
+        },
+        {
+          "sentence_id": 202,
+          "text": "Genesis 34:18 And their words are good in the eyes of Hamor, and in the eyes of Shechem, Hamor's son;"
+        },
+        {
+          "sentence_id": 203,
+          "text": "Genesis 34:19 and the young man delayed not to do the thing, for he had delight in Jacob's daughter, and he is honourable above all the house of his father."
+        },
+        {
+          "sentence_id": 204,
+          "text": "Genesis 34:29 and all their wealth, and all their infants, and their wives they have taken captive, and they spoil also all that is in the house."
+        },
+        {
+          "sentence_id": 205,
+          "text": "Genesis 35:4 And they give unto Jacob all the gods of the stranger that are in their hand, and the rings that are in their ears, and Jacob hideth them under the oak which is by Shechem;"
+        },
+        {
+          "sentence_id": 206,
+          "text": "Genesis 35:7 and he buildeth there an altar, and proclaimeth at the place the God of Bethel: for there had God been revealed unto him, in his fleeing from the face of his brother."
+        },
+        {
+          "sentence_id": 207,
+          "text": "Genesis 35:13 And God goeth up from him, in the place where He hath spoken with him."
+        },
+        {
+          "sentence_id": 208,
+          "text": "Genesis 37:3 And Israel hath loved Joseph more than any of his sons, for he is a son of his old age, and hath made for him a long coat;"
+        },
+        {
+          "sentence_id": 209,
+          "text": "Genesis 37:9 And he dreameth yet another dream, and recounteth it to his brethren, and saith, 'Lo, I have dreamed a dream again, and lo, the sun and the moon, and eleven stars, are bowing themselves to me.'"
+        },
+        {
+          "sentence_id": 210,
+          "text": "Genesis 37:14 and he saith to him, 'Go, I pray thee, see the peace of thy brethren, and the peace of the flock, and bring me back word;' and he sendeth him from the valley of Hebron, and he cometh to Shechem."
+        },
+        {
+          "sentence_id": 211,
+          "text": "Genesis 37:21 And Reuben heareth, and delivereth him out of their hand, and saith, 'Let us not smite the life;'"
+        },
+        {
+          "sentence_id": 212,
+          "text": "Genesis 38:8 And Judah saith to Onan, 'Go in unto the wife of thy brother, and marry her, and raise up seed to thy brother;'"
+        },
+        {
+          "sentence_id": 213,
+          "text": "Genesis 38:12 And the days are multiplied, and the daughter of Shuah, Judah's wife, dieth; and Judah is comforted, and goeth up unto his sheep-shearers, he and Hirah his friend the Adullamite, to Timnath."
+        },
+        {
+          "sentence_id": 214,
+          "text": "Genesis 38:20 And Judah sendeth the kid of the goats by the hand of his friend the Adullamite, to receive the pledge from the hand of the woman, and he hath not found her."
+        },
+        {
+          "sentence_id": 215,
+          "text": "Genesis 38:28 and it cometh to pass in her bearing, that one giveth out a hand, and the midwife taketh and bindeth on his hand a scarlet thread, saying, 'This hath come out first.'"
+        },
+        {
+          "sentence_id": 216,
+          "text": "Genesis 39:4 and Joseph findeth grace in his eyes and serveth him, and he appointeth him over his house, and all that he hath he hath given into his hand."
+        },
+        {
+          "sentence_id": 217,
+          "text": "Genesis 39:5 And it cometh to pass from the time that he hath appointed him over his house, and over all that he hath, that Jehovah blesseth the house of the Egyptian for Joseph's sake, and the blessing of Jehovah is on all that he hath, in the house, and in the field;"
+        },
+        {
+          "sentence_id": 218,
+          "text": "Genesis 39:21 And Jehovah is with Joseph, and stretcheth out kindness unto him, and putteth his grace in the eyes of the chief of the round-house;"
+        },
+        {
+          "sentence_id": 219,
+          "text": "Genesis 40:5 And they dream a dream both of them, each his dream in one night, each according to the interpretation of his dream, the butler and the baker whom the king of Egypt hath, who are prisoners in the round-house."
+        },
+        {
+          "sentence_id": 220,
+          "text": "Genesis 40:11 and Pharaoh's cup is in my hand, and I take the grapes and press them into the cup of Pharaoh, and I give the cup into the hand of Pharaoh.'"
+        },
+        {
+          "sentence_id": 221,
+          "text": "Genesis 40:13 yet, within three days doth Pharaoh lift up thy head, and hath put thee back on thy station, and thou hast given the cup of Pharaoh into his hand, according to the former custom when thou wast his butler."
+        },
+        {
+          "sentence_id": 222,
+          "text": "Genesis 40:14 'Surely if thou hast remembered me with thee, when it is well with thee, and hast done (I pray thee) kindness with me, and hast made mention of me unto Pharaoh, then hast thou brought me out from this house,"
+        },
+        {
+          "sentence_id": 223,
+          "text": "Genesis 41:8 And it cometh to pass in the morning, that his spirit is moved, and he sendeth and calleth all the scribes of Egypt, and all its wise men, and Pharaoh recounteth to them his dream, and there is no interpreter of them to Pharaoh."
+        },
+        {
+          "sentence_id": 224,
+          "text": "Genesis 41:11 and we dream a dream in one night, I and he, each according to the interpretation of his dream we have dreamed."
+        },
+        {
+          "sentence_id": 225,
+          "text": "Genesis 41:12 And there is with us a youth, a Hebrew, servant to the chief of the executioners, and we recount to him, and he interpreteth to us our dreams, to each according to his dream hath he interpreted,"
+        },
+        {
+          "sentence_id": 226,
+          "text": "Genesis 41:16 and Joseph answereth Pharaoh, saying, 'Without me &#8212; God doth answer Pharaoh with peace.'"
+        },
+        {
+          "sentence_id": 227,
+          "text": "Genesis 41:24 and the thin ears swallow the seven good ears; and I tell unto the scribes, and there is none declaring to me.'"
+        },
+        {
+          "sentence_id": 228,
+          "text": "Genesis 41:25 And Joseph saith unto Pharaoh, 'The dream of Pharaoh is one: that which God is doing he hath declared to Pharaoh;"
+        },
+        {
+          "sentence_id": 229,
+          "text": "Genesis 41:26 the seven good kine are seven years, and the seven good ears are seven years, the dream is one;"
+        },
+        {
+          "sentence_id": 230,
+          "text": "Genesis 41:29 'Lo, seven years are coming of great abundance in all the land of Egypt,"
+        },
+        {
+          "sentence_id": 231,
+          "text": "Genesis 41:35 and they gather all the food of these good years that are coming, and heap up corn under the hand of Pharaoh &#8212; food in the cities; and they have kept it,"
+        },
+        {
+          "sentence_id": 232,
+          "text": "Genesis 41:37 And the thing is good in the eyes of Pharaoh, and in the eyes of all his servants,"
+        },
+        {
+          "sentence_id": 233,
+          "text": "Genesis 41:38 and Pharaoh saith unto his servants, 'Do we find like this, a man in whom the spirit of God is?'"
+        },
+        {
+          "sentence_id": 234,
+          "text": "Genesis 41:40 thou &#8212; thou art over my house, and at thy mouth do all my people kiss; only in the throne I am greater than thou.'"
+        },
+        {
+          "sentence_id": 235,
+          "text": "Genesis 41:42 And Pharaoh turneth aside his seal-ring from off his hand, and putteth it on the hand of Joseph, and clotheth him with garments of fine linen, and placeth a chain of gold on his neck,"
+        },
+        {
+          "sentence_id": 236,
+          "text": "Genesis 41:46 And Joseph is a son of thirty years in his standing before Pharaoh king of Egypt, and Joseph goeth out from the presence of Pharaoh, and passeth over through all the land of Egypt;"
+        },
+        {
+          "sentence_id": 237,
+          "text": "Genesis 43:11 And Israel their father saith unto them, 'If so, now, this do: take of the praised thing of the land in your vessels, and take down to the man a present, a little balm, and a little honey, spices and myrrh, nuts and almonds;"
+        },
+        {
+          "sentence_id": 238,
+          "text": "Genesis 43:23 And he saith, 'Peace to you, fear not: your God and the God of your father hath given to you hidden treasure in your bags, your money came unto me;' and he bringeth out Simeon unto them."
+        },
+        {
+          "sentence_id": 239,
+          "text": "Genesis 43:26 And Joseph cometh into the house, and they bring to him the present which is in their hand, into the house, and bow themselves to him, to the earth;"
+        },
+        {
+          "sentence_id": 240,
+          "text": "Genesis 43:27 and he asketh of them of peace, and saith, 'Is your father well? the aged man of whom ye have spoken, is he yet alive?'"
+        },
+        {
+          "sentence_id": 241,
+          "text": "Genesis 43:28 and they say, 'Thy servant our father is well, he is yet alive;' and they bow, and do obeisance."
+        },
+        {
+          "sentence_id": 242,
+          "text": "Genesis 43:33 And they sit before him, the first-born according to his birthright, and the young one according to his youth, and the men wonder one at another;"
+        },
+        {
+          "sentence_id": 243,
+          "text": "Genesis 43:34 and he lifteth up gifts from before him unto them, and the gift of Benjamin is five hands more than the gifts of all of them; and they drink, yea, they drink abundantly with him."
+        },
+        {
+          "sentence_id": 244,
+          "text": "Genesis 44:17 and he saith, 'Far be it from me to do this; the man in whose hand the cup hath been found, he becometh my servant; and ye, go ye up in peace unto your father.'"
+        },
+        {
+          "sentence_id": 245,
+          "text": "Genesis 44:29 when ye have taken also this from my presence, and mischief hath met him, then ye have brought down my grey hairs with evil to sheol."
+        },
+        {
+          "sentence_id": 246,
+          "text": "Genesis 44:30 'And now, at my coming in unto thy servant my father, and the youth not with us (and his soul is bound up in his soul),"
+        },
+        {
+          "sentence_id": 247,
+          "text": "Genesis 45:7 and God sendeth me before you, to place of you a remnant in the land, and to give life to you by a great escape;"
+        },
+        {
+          "sentence_id": 248,
+          "text": "Genesis 45:16 And the sound hath been heard in the house of Pharaoh, saying, 'Come have the brethren of Joseph;' and it is good in the eyes of Pharaoh, and in the eyes of his servants,"
+        },
+        {
+          "sentence_id": 249,
+          "text": "Genesis 45:20 and your eye hath no pity on your vessels, for the good of all the land of Egypt is yours.'"
+        },
+        {
+          "sentence_id": 250,
+          "text": "Genesis 45:26 and they declare to him, saying, 'Joseph is yet alive,' and that he is ruler over all the land of Egypt; and his heart ceaseth, for he hath not given credence to them."
+        },
+        {
+          "sentence_id": 251,
+          "text": "Genesis 46:3 And He saith, 'I am God, God of thy father, be not afraid of going down to Egypt, for for a great nation I set thee there;"
+        },
+        {
+          "sentence_id": 252,
+          "text": "Genesis 46:6 and they take their cattle, and their goods which they have acquired in the land of Canaan, and come into Egypt &#8212; Jacob, and all his seed with him,"
+        },
+        {
+          "sentence_id": 253,
+          "text": "Genesis 47:9 And Jacob saith unto Pharaoh, 'The days of the years of my sojournings are an hundred and thirty years; few and evil have been the days of the years of my life, and they have not reached the days of the years of the life of my fathers, in the days of their sojournings.'"
+        },
+        {
+          "sentence_id": 254,
+          "text": "Genesis 47:24 and it hath come to pass in the increases, that ye have given a fifth to Pharaoh, and four of the parts are for yourselves, for seed of the field, and for your food, and for those who are in your houses, and for food for your infants.'"
+        },
+        {
+          "sentence_id": 255,
+          "text": "Genesis 47:28 and Jacob liveth in the land of Egypt seventeen years, and the days of Jacob, the years of his life, are an hundred and forty and seven years."
+        },
+        {
+          "sentence_id": 256,
+          "text": "Genesis 48:9 and Joseph saith unto his father, 'They are my sons, whom God hath given to me in this place;' and he saith, 'Bring them, I pray thee, unto me, and I bless them.'"
+        },
+        {
+          "sentence_id": 257,
+          "text": "Genesis 48:14 And Israel putteth out his right hand, and placeth it upon the head of Ephraim, who is the younger, and his left hand upon the head of Manasseh; he hath guided his hands wisely, for Manasseh is the first-born."
+        },
+        {
+          "sentence_id": 258,
+          "text": "Genesis 48:16 the Messenger who is redeeming me from all evil doth bless the youths, and my name is called upon them, and the name of my fathers Abraham and Isaac; and they increase into a multitude in the midst of the land.'"
+        },
+        {
+          "sentence_id": 259,
+          "text": "Genesis 48:18 and Joseph saith unto his father, 'Not so, my father, for this is the first-born; set thy right hand on his head.'"
+        },
+        {
+          "sentence_id": 260,
+          "text": "Genesis 48:19 And his father refuseth, and saith, 'I have known, my son, I have known; he also becometh a people, and he also is great, and yet, his young brother is greater than he, and his seed is the fulness of the nations;'"
         }
       ]
     },
@@ -19,6 +1055,500 @@
         {
           "sentence_id": 0,
           "text": "Genesis 1:2 the earth hath existed waste and void, and darkness is on the face of the deep, and the Spirit of God fluttering on the face of the waters,"
+        },
+        {
+          "sentence_id": 1,
+          "text": "Genesis 2:17 and of the tree of knowledge of good and evil, thou dost not eat of it, for in the day of thine eating of it &#8212; dying thou dost die.'"
+        },
+        {
+          "sentence_id": 2,
+          "text": "Genesis 3:4 And the serpent saith unto the woman, 'Dying, ye do not die,"
+        },
+        {
+          "sentence_id": 3,
+          "text": "Genesis 3:16 Unto the woman He said, 'Multiplying I multiply thy sorrow and thy conception, in sorrow dost thou bear children, and toward thy husband is thy desire, and he doth rule over thee.'"
+        },
+        {
+          "sentence_id": 4,
+          "text": "Genesis 3:17 And to the man He said, 'Because thou hast hearkened to the voice of thy wife, and dost eat of the tree concerning which I have charged thee, saying, Thou dost not eat of it, cursed is the ground on thine account; in sorrow thou dost eat of it all days of thy life,"
+        },
+        {
+          "sentence_id": 5,
+          "text": "Genesis 4:10 And He saith, 'What hast thou done? the voice of thy brother's blood is crying unto Me from the ground;"
+        },
+        {
+          "sentence_id": 6,
+          "text": "Genesis 4:23 And Lamech saith to his wives: &#8212; 'Adah and Zillah, hear my voice; Wives of Lamech, give ear to my saying: For a man I have slain for my wound, Even a young man for my hurt;"
+        },
+        {
+          "sentence_id": 7,
+          "text": "Genesis 7:4 for after other seven days I am sending rain on the earth forty days and forty nights, and have wiped away all the substance that I have made from off the face of the ground.'"
+        },
+        {
+          "sentence_id": 8,
+          "text": "Genesis 7:22 all in whose nostrils is breath of a living spirit &#8212; of all that is in the dry land &#8212; have died."
+        },
+        {
+          "sentence_id": 9,
+          "text": "Genesis 7:23 And wiped away is all the substance that is on the face of the ground, from man unto beast, unto creeping thing, and unto fowl of the heavens; yea, they are wiped away from the earth, and only Noah is left, and those who are with him in the ark;"
+        },
+        {
+          "sentence_id": 10,
+          "text": "Genesis 8:13 And it cometh to pass in the six hundredth and first year, in the first month, in the first of the month, the waters have been dried from off the earth; and Noah turneth aside the covering of the ark, and looketh, and lo, the face of the ground hath been dried."
+        },
+        {
+          "sentence_id": 11,
+          "text": "Genesis 8:14 And in the second month, in the seven and twentieth day of the month, the earth hath become dry."
+        },
+        {
+          "sentence_id": 12,
+          "text": "Genesis 9:22 And Ham, father of Canaan, seeth the nakedness of his father, and declareth to his two brethren without."
+        },
+        {
+          "sentence_id": 13,
+          "text": "Genesis 14:10 And the valley of Siddim is full of bitumen-pits; and the kings of Sodom and Gomorrah flee, and fall there, and those left have fled to the mountain."
+        },
+        {
+          "sentence_id": 14,
+          "text": "Genesis 15:16 and the fourth generation doth turn back hither, for the iniquity of the Amorite is not yet complete.'"
+        },
+        {
+          "sentence_id": 15,
+          "text": "Genesis 17:14 and an uncircumcised one, a male, the flesh of whose foreskin is not circumcised, even that person hath been cut off from his people; My covenant he hath broken.'"
+        },
+        {
+          "sentence_id": 16,
+          "text": "Genesis 18:20 And Jehovah saith, 'The cry of Sodom and Gomorrah &#8212; because great; and their sin &#8212; because exceeding grievous:"
+        },
+        {
+          "sentence_id": 17,
+          "text": "Genesis 18:21 I go down now, and see whether according to its cry which is coming unto Me they have done completely &#8212; and if not &#8212; I know;'"
+        },
+        {
+          "sentence_id": 18,
+          "text": "Genesis 19:13 for we are destroying this place, for their cry hath been great before the face of Jehovah, and Jehovah doth send us to destroy it.'"
+        },
+        {
+          "sentence_id": 19,
+          "text": "Genesis 19:34 And it cometh to pass, on the morrow, that the first-born saith unto the younger, 'Lo, I have lain yesterday-night with my father: we cause him to drink wine also to-night, and go thou in, lie with him, and we preserve from our father &#8212; a seed.'"
+        },
+        {
+          "sentence_id": 20,
+          "text": "Genesis 20:7 and now send back the man's wife, for he is inspired, and he doth pray for thee, and live thou; and if thou do not send back, know that dying thou dost die, thou, and all that thou hast.'"
+        },
+        {
+          "sentence_id": 21,
+          "text": "Genesis 23:2 and Sarah dieth in Kirjath-Arba, which is Hebron, in the land of Caanan, and Abraham goeth in to mourn for Sarah, and to bewail her."
+        },
+        {
+          "sentence_id": 22,
+          "text": "Genesis 23:4 A sojourner and a settler I am with you; give to me a possession of a burying-place with you, and I bury my dead from before me.'"
+        },
+        {
+          "sentence_id": 23,
+          "text": "Genesis 23:13 and speaketh unto Ephron in the ears of the people of the land, saying, 'Only &#8212; if thou wouldest hear me &#8212; I have given the money of the field &#8212; accept from me, and I bury my dead there.'"
+        },
+        {
+          "sentence_id": 24,
+          "text": "&#8212; thy dead bury.'"
+        },
+        {
+          "sentence_id": 25,
+          "text": "Genesis 24:67 and Isaac bringeth her in unto the tent of Sarah his mother, and he taketh Rebekah, and she becometh his wife, and he loveth her, and Isaac is comforted after the death of his mother."
+        },
+        {
+          "sentence_id": 26,
+          "text": "Genesis 25:29 And Jacob boileth pottage, and Esau cometh in from the field, and he is weary;"
+        },
+        {
+          "sentence_id": 27,
+          "text": "Genesis 25:32 And Esau saith, 'Lo, I am going to die, and what is this to me &#8212; birthright?'"
+        },
+        {
+          "sentence_id": 28,
+          "text": "Genesis 26:9 And Abimelech calleth for Isaac, and saith, 'Lo, she is surely thy wife; and how hast thou said, She is my sister?' and Isaac saith unto him, 'Because I said, Lest I die for her.'"
+        },
+        {
+          "sentence_id": 29,
+          "text": "Genesis 26:11 and Abimelech commandeth all the people, saying, 'He who cometh against this man or against his wife, dying doth die.'"
+        },
+        {
+          "sentence_id": 30,
+          "text": "Genesis 26:15 and all the wells which his father's servants digged in the days of Abraham his father, the Philistines have stopped them, and fill them with dust."
+        },
+        {
+          "sentence_id": 31,
+          "text": "Genesis 26:18 and Isaac turneth back, and diggeth the wells of water which they digged in the days of Abraham his father, which the Philistines do stop after the death of Abraham, and he calleth to them names according to the names which his father called them."
+        },
+        {
+          "sentence_id": 32,
+          "text": "Genesis 27:2 And he saith, 'Lo, I pray thee, I have become aged, I have not known the day of my death;"
+        },
+        {
+          "sentence_id": 33,
+          "text": "Genesis 31:9 and God taketh away the substance of your father, and doth give to me."
+        },
+        {
+          "sentence_id": 34,
+          "text": "Genesis 33:13 And he saith unto him, 'My lord knoweth that the children are tender, and the suckling flock and the herd are with me; when they have beaten them one day, then hath all the flock died."
+        },
+        {
+          "sentence_id": 35,
+          "text": "Genesis 34:7 and the sons of Jacob came in from the field when they heard, and the men grieve themselves, and it is very displeasing to them, for folly he hath done against Israel, to lie with the daughter of Jacob &#8212; and so it is not done."
+        },
+        {
+          "sentence_id": 36,
+          "text": "Genesis 34:8 And Hamor speaketh with them, saying, 'Shechem, my son, his soul hath cleaved to your daughter; give her, I pray you, to him for a wife,"
+        },
+        {
+          "sentence_id": 37,
+          "text": "Genesis 34:30 And Jacob saith unto Simeon and unto Levi, 'Ye have troubled me, by causing me to stink among the inhabitants of the land, among the Canaanite, and among the Perizzite: and I am few in number, and they have been gathered against me, and have smitten me, and I have been destroyed, I and my house.'"
+        },
+        {
+          "sentence_id": 38,
+          "text": "Genesis 35:18 And it cometh to pass in the going out of her soul (for she died), that she calleth his name Ben-Oni; and his father called him Benjamin;"
+        },
+        {
+          "sentence_id": 39,
+          "text": "Genesis 37:18 And they see him from afar, even before he draweth near unto them, and they conspire against him to put him to death."
+        },
+        {
+          "sentence_id": 40,
+          "text": "Genesis 37:24 and take him and cast him into the pit, and the pit is empty, there is no water in it."
+        },
+        {
+          "sentence_id": 41,
+          "text": "Genesis 37:29 And Reuben returneth unto the pit, and lo, Joseph is not in the pit, and he rendeth his garments,"
+        },
+        {
+          "sentence_id": 42,
+          "text": "Genesis 37:33 And he discerneth it, and saith, 'My son's coat! an evil beast hath devoured him; torn &#8212; torn is Joseph!'"
+        },
+        {
+          "sentence_id": 43,
+          "text": "Genesis 37:35 and all his sons and all his daughters rise to comfort him, and he refuseth to comfort himself, and saith, 'For &#8212; I go down mourning unto my son, to Sheol,' and his father weepeth for him."
+        },
+        {
+          "sentence_id": 44,
+          "text": "Genesis 38:11 And Judah saith to Tamar his daughter-in-law, 'Abide a widow at thy father's house, till Shelah my son groweth up;' for he said, 'Lest he die &#8212; even he &#8212; like his brethren;' and Tamar goeth and dwelleth at her father's house."
+        },
+        {
+          "sentence_id": 45,
+          "text": "Genesis 38:21 And he asketh the men of her place, saying, 'Where is the separated one &#8212; she in Enayim, by the way?' and they say, 'There hath not been in this place a separated one.'"
+        },
+        {
+          "sentence_id": 46,
+          "text": "Genesis 40:7 and he asketh Pharaoh's eunuchs who are with him in charge in the house of his lord, saying, 'Wherefore are your faces sad to-day?'"
+        },
+        {
+          "sentence_id": 47,
+          "text": "Genesis 40:15 for I was really stolen from the land of the Hebrews; and here also have I done nothing that they have put me in the pit.'"
+        },
+        {
+          "sentence_id": 48,
+          "text": "Genesis 41:14 And Pharaoh sendeth and calleth Joseph, and they cause him to run out of the pit, and he shaveth, and changeth his garments, and cometh in unto Pharaoh."
+        },
+        {
+          "sentence_id": 49,
+          "text": "Genesis 41:19 and lo, seven other kine are coming up after them, thin, and of very bad form, and lean in flesh; I have not seen like these in all the land of Egypt for badness."
+        },
+        {
+          "sentence_id": 50,
+          "text": "Genesis 41:21 and they come in unto their midst, and it hath not been known that they have come in unto their midst, and their appearance is bad as at the commencement; and I awake."
+        },
+        {
+          "sentence_id": 51,
+          "text": "Genesis 41:27 and the seven thin and bad kine which are coming up after them are seven years, and the seven empty ears, blasted with an east wind, are seven years of famine;"
+        },
+        {
+          "sentence_id": 52,
+          "text": "Genesis 41:30 and seven years of famine have arisen after them, and all the plenty is forgotten in the land of Egypt, and the famine hath finished the land,"
+        },
+        {
+          "sentence_id": 53,
+          "text": "Genesis 42:32 we are twelve brethren, sons of our father, the one is not, and the young one is to-day with our father in the land of Canaan."
+        },
+        {
+          "sentence_id": 54,
+          "text": "Genesis 42:37 And Reuben speaketh unto his father, saying, 'My two sons thou dost put to death, if I bring him not in unto thee; give him into my hand, and I &#8212; I bring him back unto thee;'"
+        },
+        {
+          "sentence_id": 55,
+          "text": "Genesis 42:38 and he saith, 'My son doth not go down with you, for his brother is dead, and he by himself is left; when mischief hath met him in the way in which ye go, then ye have brought down my grey hairs in sorrow to sheol.'"
+        },
+        {
+          "sentence_id": 56,
+          "text": "Genesis 43:32 And they place for him by himself, and for them by themselves, and for the Egyptians who are eating with him by themselves: for the Egyptians are unable to eat bread with the Hebrews, for it is an abomination to the Egyptians."
+        },
+        {
+          "sentence_id": 57,
+          "text": "Genesis 44:9 with whomsoever of thy servants it is found, he hath died, and we also are to my lord for servants.'"
+        },
+        {
+          "sentence_id": 58,
+          "text": "Genesis 44:20 and we say unto my lord, We have a father, an aged one, and a child of old age, a little one; and his brother died, and he is left alone of his mother, and his father hath loved him."
+        },
+        {
+          "sentence_id": 59,
+          "text": "Genesis 44:22 and we say unto my lord, The youth is not able to leave his father, when he hath left his father, then he hath died;"
+        },
+        {
+          "sentence_id": 60,
+          "text": "Genesis 44:25 and our father saith, Turn back, buy for us a little food,"
+        },
+        {
+          "sentence_id": 61,
+          "text": "Genesis 44:28 and the one goeth out from me, and I say, Surely he is torn &#8212; torn! and I have not seen him since;"
+        },
+        {
+          "sentence_id": 62,
+          "text": "Genesis 44:31 then it hath come to pass when he seeth that the youth is not, that he hath died, and thy servants have brought down the grey hairs of thy servant our father with sorrow to sheol;"
+        },
+        {
+          "sentence_id": 63,
+          "text": "Joseph my son is yet alive; I go and see him before I die.'"
+        },
+        {
+          "sentence_id": 64,
+          "text": "Genesis 46:1 And Israel journeyeth, and all that he hath, and cometh in to Beer-Sheba, and sacrificeth sacrifices to the God of his father Isaac;"
+        },
+        {
+          "sentence_id": 65,
+          "text": "Genesis 46:12 And sons of Judah: Er, and Onan, and Shelah, and Pharez, and Zarah, (and Er and Onan die in the land of Canaan.)"
+        },
+        {
+          "sentence_id": 66,
+          "text": "Genesis 46:34 that ye have said, Thy servants have been men of cattle from our youth, even until now, both we and our fathers, &#8212; in order that ye may dwell in the land of Goshen, for the abomination of the Egyptians is every one feeding a flock.'"
+        },
+        {
+          "sentence_id": 67,
+          "text": "Genesis 47:19 why do we die before thine eyes, both we and our ground?"
+        },
+        {
+          "sentence_id": 68,
+          "text": "Genesis 47:29 And the days of Israel are near to die, and he calleth for his son, for Joseph, and saith to him, 'If, I pray thee, I have found grace in thine eyes, put, I pray thee, thy hand under my thigh, and thou hast done with me kindness and truth; bury me not, I pray thee, in Egypt,"
+        },
+        {
+          "sentence_id": 69,
+          "text": "Genesis 47:30 and I have lain with my fathers, and thou hast borne me out of Egypt, and buried me in their burying-place.'"
+        },
+        {
+          "sentence_id": 70,
+          "text": "Genesis 48:7 And I &#8212; in my coming in from Padan-Aram Rachel hath died by me in the land of Canaan, in the way, while yet a kibrath of land to enter Ephrata, and I bury her there in the way of Ephrata, which is Bethlehem.'"
+        },
+        {
+          "sentence_id": 71,
+          "text": "Genesis 48:10 And the eyes of Israel have been heavy from age, he is unable to see; and he bringeth them nigh unto him, and he kisseth them, and cleaveth to them;"
+        },
+        {
+          "sentence_id": 72,
+          "text": "Genesis 48:21 And Israel saith unto Joseph, 'Lo, I am dying, and God hath been with you, and hath brought you back unto the land of your fathers;"
+        },
+        {
+          "sentence_id": 73,
+          "text": "Genesis 49:21 Naphtali is a hind sent away, Who is giving beauteous young ones."
+        },
+        {
+          "sentence_id": 74,
+          "text": "Genesis 49:29 And he commandeth them, and saith unto them, 'I am being gathered unto my people; bury me by my fathers, at the cave which is in the field of Ephron the Hittite;"
+        },
+        {
+          "sentence_id": 75,
+          "text": "Genesis 50:4 And the days of his weeping pass away, and Joseph speaketh unto the house of Pharaoh, saying, 'If, I pray you, I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,"
+        },
+        {
+          "sentence_id": 76,
+          "text": "Genesis 50:5 My father caused me to swear, saying, Lo, I am dying; in my burying-place which I have prepared for myself in the land of Canaan, there dost thou bury me; and now, let me go up, I pray thee, and bury my father, and return;'"
+        },
+        {
+          "sentence_id": 77,
+          "text": "Genesis 50:6 and Pharaoh saith, 'Go up and bury thy father, as he caused thee to swear.'"
+        },
+        {
+          "sentence_id": 78,
+          "text": "Genesis 50:7 And Joseph goeth up to bury his father, and go up with him do all the servants of Pharaoh, elders of his house, and all the elders of the land of Egypt,"
+        },
+        {
+          "sentence_id": 79,
+          "text": "Genesis 50:8 and all the house of Joseph, and his brethren, and the house of his father; only their infants, and their flock, and their herd, have they left in the land of Goshen;"
+        },
+        {
+          "sentence_id": 80,
+          "text": "Genesis 50:13 and his sons bear him away to the land of Canaan, and bury him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a burying-place, from Ephron the Hittite, on the front of Mamre."
+        },
+        {
+          "sentence_id": 81,
+          "text": "Genesis 50:14 And Joseph turneth back to Egypt, he and his brethren, and all who are going up with him to bury his father, after his burying his father."
+        },
+        {
+          "sentence_id": 82,
+          "text": "Genesis 50:16 And they give a charge for Joseph, saying, 'Thy father commanded before his death, saying,"
+        }
+      ]
+    },
+    {
+      "emotion": "anger",
+      "content": [
+        {
+          "sentence_id": 0,
+          "text": "Genesis 1:7 And God maketh the expanse, and it separateth between the waters which are under the expanse, and the waters which are above the expanse: and it is so."
+        },
+        {
+          "sentence_id": 1,
+          "text": "Genesis 6:11 And the earth is corrupt before God, and the earth is filled with violence."
+        },
+        {
+          "sentence_id": 2,
+          "text": "Genesis 9:11 And I have established My covenant with you, and all flesh is not any more cut off by waters of a deluge, and there is not any more a deluge to destroy the earth.'"
+        },
+        {
+          "sentence_id": 3,
+          "text": "Genesis 18:28 peradventure there are lacking five of the fifty righteous &#8212; dost Thou destroy for five the whole of the city?' and He saith, 'I destroy it not, if I find there forty and five.'"
+        },
+        {
+          "sentence_id": 4,
+          "text": "Genesis 19:6 And Lot goeth out unto them, to the opening, and the door hath shut behind him,"
+        },
+        {
+          "sentence_id": 5,
+          "text": "Genesis 19:7 and saith, 'Do not, I pray you, my brethren, do evil;"
+        },
+        {
+          "sentence_id": 6,
+          "text": "now, we do evil to thee more than to them;' and they press against the man, against Lot greatly, and come nigh to break the door."
+        },
+        {
+          "sentence_id": 7,
+          "text": "Genesis 19:26 And his wife looketh expectingly from behind him, and she is &#8212; a pillar of salt!"
+        },
+        {
+          "sentence_id": 8,
+          "text": "Genesis 26:21 and they dig another well, and they strive also for it, and he calleth its name 'Hatred.'"
+        },
+        {
+          "sentence_id": 9,
+          "text": "Genesis 29:31 And Jehovah seeth that Leah is the hated one, and He openeth her womb, and Rachel is barren;"
+        },
+        {
+          "sentence_id": 10,
+          "text": "Genesis 36:24 And these are sons of Zibeon, both Ajah and Anah: it is Anah that hath found the Imim in the wilderness, in his feeding the asses of Zibeon his father."
+        },
+        {
+          "sentence_id": 11,
+          "text": "Genesis 37:4 and his brethren see that their father hath loved him more than any of his brethren, and they hate him, and have not been able to speak to him peaceably."
+        },
+        {
+          "sentence_id": 12,
+          "text": "Genesis 37:5 And Joseph dreameth a dream, and declareth to his brethren, and they add still more to hate him."
+        },
+        {
+          "sentence_id": 13,
+          "text": "Genesis 43:3 And Judah speaketh unto him, saying, 'The man protesting protested to us, saying, Ye do not see my face without your brother being with you;"
+        },
+        {
+          "sentence_id": 14,
+          "text": "Genesis 43:24 And the man bringeth in the men into Joseph's house, and giveth water, and they wash their feet; and he giveth provender for their asses,"
+        },
+        {
+          "sentence_id": 15,
+          "text": "Genesis 44:3 The morning is bright, and the men have been sent away, they and their asses &#8212; "
+        },
+        {
+          "sentence_id": 16,
+          "text": "Genesis 49:7 Cursed is their anger, for it is fierce, And their wrath, for it is sharp; I divide them in Jacob, And I scatter them in Israel."
+        },
+        {
+          "sentence_id": 17,
+          "text": "Genesis 49:23 And embitter him &#8212; yea, they have striven, Yea, hate him do archers;"
+        },
+        {
+          "sentence_id": 18,
+          "text": "Genesis 49:33 And Jacob finisheth commanding his sons, and gathereth up his feet unto the bed, and expireth, and is gathered unto his people."
+        }
+      ]
+    },
+    {
+      "emotion": "fear",
+      "content": [
+        {
+          "sentence_id": 0,
+          "text": "Genesis 3:10 and he saith, 'Thy sound I have heard in the garden, and I am afraid, for I am naked, and I hide myself.'"
+        },
+        {
+          "sentence_id": 1,
+          "text": "Genesis 9:2 and your fear and your dread is on every beast of the earth, and on every fowl of the heavens, on all that creepeth on the ground, and on all fishes of the sea &#8212; into your hand they have been given."
+        },
+        {
+          "sentence_id": 2,
+          "text": "Genesis 15:12 And the sun is about to go in, and deep sleep hath fallen upon Abram, and lo, a terror of great darkness is falling upon him;"
+        },
+        {
+          "sentence_id": 3,
+          "text": "Genesis 18:4 let, I pray thee, a little water be accepted, and wash your feet, and recline under the tree;"
+        },
+        {
+          "sentence_id": 4,
+          "text": "Genesis 19:2 and he saith, 'Lo, I pray you, my lords, turn aside, I pray you, unto the house of your servant, and lodge, and wash your feet &#8212; then ye have risen early and gone on your way;' and they say, 'Nay, but in the broad place we do lodge.'"
+        },
+        {
+          "sentence_id": 5,
+          "text": "Genesis 19:20 lo, I pray thee, this city is near to flee thither, and it is little; let me escape, I pray thee, thither, (is it not little?)"
+        },
+        {
+          "sentence_id": 6,
+          "text": "Genesis 19:30 And Lot goeth up out of Zoar, and dwelleth in the mountain, and his two daughters with him, for he hath been afraid of dwelling in Zoar, and he dwelleth in a cave, he and his two daughters."
+        },
+        {
+          "sentence_id": 7,
+          "text": "Genesis 20:8 And Abimelech riseth early in the morning, and calleth for all his servants, and speaketh all these words in their ears; and the men fear exceedingly;"
+        },
+        {
+          "sentence_id": 8,
+          "text": "Genesis 20:11 And Abraham saith, 'Because I said, 'Surely the fear of God is not in this place, and they have slain me for the sake of my wife;"
+        },
+        {
+          "sentence_id": 9,
+          "text": "Genesis 22:12 and He saith, 'Put not forth thine hand unto the youth, nor do anything to him, for now I have known that thou art fearing God, and hast not withheld thy son, thine only one, from Me.'"
+        },
+        {
+          "sentence_id": 10,
+          "text": "Genesis 26:7 and men of the place ask him of his wife, and he saith, 'She is my sister:' for he hath been afraid to say, 'My wife &#8212; lest the men of the place kill me for Rebekah, for she is of good appearance.'"
+        },
+        {
+          "sentence_id": 11,
+          "text": "Genesis 27:43 and now, my son, hearken to my voice, and rise, flee for thyself unto Laban my brother, to Haran,"
+        },
+        {
+          "sentence_id": 12,
+          "text": "Genesis 28:17 and he feareth, and saith, 'How fearful is this place; this is nothing but a house of God, and this a gate of the heavens.'"
+        },
+        {
+          "sentence_id": 13,
+          "text": "Genesis 31:20 and Jacob deceiveth the heart of Laban the Aramaean, because he hath not declared to him that he is fleeing;"
+        },
+        {
+          "sentence_id": 14,
+          "text": "Genesis 31:31 And Jacob answereth and saith to Laban, 'Because I was afraid, for I said, Lest thou take violently away thy daughters from me;"
+        },
+        {
+          "sentence_id": 15,
+          "text": "Genesis 31:42 unless the God of my father, the God of Abraham, and the Fear of Isaac, had been for me, surely now empty thou hadst sent me away; mine affliction and the labour of my hands hath God seen, and reproveth yesternight.'"
+        },
+        {
+          "sentence_id": 16,
+          "text": "Genesis 31:53 the God of Abraham and the God of Nahor, doth judge between us &#8212; the God of their father,' and Jacob sweareth by the Fear of his father Isaac."
+        },
+        {
+          "sentence_id": 17,
+          "text": "Genesis 32:11 Deliver me, I pray Thee, from the hand of my brother, from the hand of Esau: for I am fearing him, less he come and have smitten me &#8212; mother beside sons;"
+        },
+        {
+          "sentence_id": 18,
+          "text": "Genesis 35:5 and they journey, and the terror of God is on the cities which are round about them, and they have not pursued after the sons of Jacob."
+        },
+        {
+          "sentence_id": 19,
+          "text": "Genesis 42:18 And Joseph saith unto them on the third day, 'This do and live; God I fear!"
         }
       ]
     }
