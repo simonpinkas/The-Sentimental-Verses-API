@@ -8,7 +8,6 @@ module.exports = (req, res) => {
   var response = verse.text;
 
   jsonResponse.push({
-//    "text": "\:poop: " + response
     "text": response
   });
 
