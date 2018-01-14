@@ -1,9 +1,9 @@
 var express = require('express')
 var app = express()
+var port = process.env.PORT || 3000;
 
-app.listen(8080, function() {
-    console.log('Chatfuel Bot-Server listening on port 8080');
-});
+app.listen(port);
+console.log("Listening on port " + port);
 
 app.get('/*', function(req, res) {
     var jsonResponse = [];
