@@ -1,0 +1,10 @@
+{
+  "name": "GenesisServer",
+  "version": "1.0.0",
+  "description": "Server for The Sentimental Verses",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
